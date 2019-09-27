@@ -1,0 +1,5 @@
+client_id = '5h8AztoQfIVy4Q'
+client_secret = 'Ei6ohRrhGO5864h3BAxAGzy3Il8'
+user_agent = 'Locke-test bot v1.0'
+username ='Locke-test'
+password = 'MonkeyRuns13$'
